@@ -1,0 +1,7 @@
+E:\Projects\train_interview\jumpingOnClouds\jumpingOnClouds\bin\Debug\jumpingOnClouds.exe.config
+E:\Projects\train_interview\jumpingOnClouds\jumpingOnClouds\bin\Debug\jumpingOnClouds.exe
+E:\Projects\train_interview\jumpingOnClouds\jumpingOnClouds\bin\Debug\jumpingOnClouds.pdb
+E:\Projects\train_interview\jumpingOnClouds\jumpingOnClouds\obj\Debug\jumpingOnClouds.csprojResolveAssemblyReference.cache
+E:\Projects\train_interview\jumpingOnClouds\jumpingOnClouds\obj\Debug\jumpingOnClouds.csproj.CoreCompileInputs.cache
+E:\Projects\train_interview\jumpingOnClouds\jumpingOnClouds\obj\Debug\jumpingOnClouds.exe
+E:\Projects\train_interview\jumpingOnClouds\jumpingOnClouds\obj\Debug\jumpingOnClouds.pdb
